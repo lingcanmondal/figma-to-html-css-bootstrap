@@ -1,0 +1,195 @@
+<style>@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,600;0,700;1,800&display=swap');
+
+</style>* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-light .navbar-brand:focus,
+.navbar-light .navbar-brand {
+    color: rgba(0, 0, 0, .9);
+    font-weight: bold;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: #000;
+}
+
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #3E3E3E;
+    /* font-size: 16px; */
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+
+}
+
+/* start carousal */
+
+.btn-light {
+    color: rgb(135, 135, 241);
+    background-color: #f9fafb;
+    border-color: #f9fafb;
+    font-weight: bold;
+}
+
+.btn-light:hover {
+    color: rgb(201, 50, 50);
+    background-color: #f9fafb;
+    border-color: #f9fafb;
+}
+
+.carousel-caption h1 {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+/* .book-now-btn{
+    background-color: #f9fafb;
+    padding: 10px 50px;
+    color: #3F87F5;
+} */
+/* end carousel */
+
+/* start precious */
+.precious {
+    margin-top: 100px;
+}
+
+/* end precious */
+
+/* start package */
+.badge {
+    background-color: rgb(122, 100, 219);
+    color: #f9fafb;
+    height: 35px;
+    width: 134px;
+    padding: 0.60em 0.65em;
+    font-size: 15px;
+}
+
+.badge:hover {
+    background-color: rgb(238, 141, 173);
+    color: brown;
+
+}
+
+.col-xs-12 {
+    border-radius: 20px;
+    line-height: 2;
+    padding: 5% 5% 1% 5%;
+    /* padding: 5% 5% 1% 5%; */
+
+}
+
+
+.hot-package-text {
+    background-color: #FF4E4E;
+    margin: -5.6% 12% -5.6% 12%;
+    font-size: 15px;
+}
+
+/* end package */
+
+/* hcs */
+
+.box-shadow {
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+/* end hcs */
+
+/* start faq  */
+
+/* .accordion-item {
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+} */
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+/* end faq  */
+
+
+/* get in touch */
+.icon i {
+    font-size: 25px;
+    padding: 10px 15px 10px 0px;
+    /* vertical-align: middle; */
+
+}
+
+/* .home {
+    padding: 5px 0px 0px 0px;
+} */
+.contact-adress h5 {
+    font-size: 20px;
+}
+.contact-adress {
+    padding: 11px 0px 0px 0px;
+}
+/* end get in touch */
+
+
+/* start footer */
+
+footer{
+    background: var(--footer-bg-color);
+    color: var(--footer-text-color);
+  }
+
+ 
+/* end footer */
+.element.style {
+    background-image: url('//images.ctfassets.net/xv1q576gx3e5/1V1NbwOtAYOCgmGKGOoOK8/9cc540288dc77699164e34884b696d9d/skyline_on_congress.jpg?w=1200&fm=jpg&fl=progressive');
+}
+
+.acc-page-banner h1 {
+    font-size: 17rem;
+}
+.acc-page-banner h1 {
+    background-color: black;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-size: 5rem;
+    margin: 0;
+    padding: 1em 0;
+    position: relative;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.btn-primary {
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    -o-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    font-family: 'Flama Semicondensed Semibold',Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    display: inline-block;
+    font-size: 13px;
+    font-size: 1.3rem;
+    line-height: 110%;
+    background-color: #00aeeb;
+    color: #fff;
+    padding: 10px 15px;
+    margin-right: 10px;
+    position: relative;
+    overflow: hidden;
+}
+.content{
+    list-style: none;
+}
+
